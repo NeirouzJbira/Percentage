@@ -1,2 +1,15 @@
 # Percentage
-Quantify the change from one number to another and express the change as an increase or decrease.
+Calculate increase or decrease in percentage between two values.
+### To view
+
+Link to project: https://NeirouzJbira.github.io/Percentage/
+
+### Demo
+
+<img src="demo.gif" height="350px"/>
+
+### Technologies
+
+- HTML
+- CSS
+- JavaScript
